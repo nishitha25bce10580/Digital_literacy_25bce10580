@@ -2,7 +2,7 @@
 
 ## 👩‍🎓 Student Details
 Name: Bagepalli Nishitha Reddy  
-Reg No: 24BCE10580  
+Reg No: 25BCE10580  
 Branch: B.Tech Core CSE  
 Year: 1st Year  
 
