@@ -1,4 +1,4 @@
-# Hi, I'm Bagepalli Nishitha Reddy 👋
+## Hi, I'm Bagepalli Nishitha Reddy 👋
 
 🎓 B.Tech Core CSE | 1st Year  
 🏫 VIT Bhopal University  
