@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio
 
 ## 👩‍🎓 Student Details
-Name: Bagepalli Nishitha Reddy  
+Name: Bagepalli Nishitha  
 Reg No: 25BCE10580  
 Branch: B.Tech Core CSE  
 Year: 1st Year  
